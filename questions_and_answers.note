@@ -1,0 +1,15 @@
+
+
+10.) [ ] What are all of the words that have all 5 vowels, in alphabetical order?
+
+Setting up storage to use during a for loop, including counters and arrays
+
+1.) [ ] How many words contain the substring "TYPE”?
+2.) [ ] Create and print an array containing all of the words that end in "GHTLY"
+3.) [ ] What is the shortest word that contains all 5 vowels?
+4.) [ ] What is the longest word that contains no vowels?
+5.) [ ] Which of the letters Q, X, and Z is the least common?
+6.) [ ] What is the longest palindrome?
+7.) [ ] What are all of the letters that never appear consecutively in an English word? For example, we know 
+     that “U” isn’t an answer, because of the word VACUUM, and we know that “A” isn’t an answer, because 
+     of “AARDVARK”, but which letters never appear consecutively?
